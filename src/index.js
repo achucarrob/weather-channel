@@ -59,4 +59,4 @@ function searchEngine(event) {
 const searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", searchEngine);
 
-searchCity("Tokyo");
+searchCity("Asunción");
